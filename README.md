@@ -66,3 +66,7 @@ npm run dev
 php artisan serve
 ```
 13. Open the application in a browser at [http://127.0.0.1:8000](http://127.0.0.1:8000/)
+
+## Resources
+
+[Postman Collection](https://documenter.getpostman.com/view/1747137/2s9YsJArg7)
